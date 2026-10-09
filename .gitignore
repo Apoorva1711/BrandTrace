@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+*/node_modules/
+client/node_modules/
+server/node_modules/
+
+# Python Virtual Environments
+venv/
+.venv/
+*/venv/
+*/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local Environment & Secrets
+.env
+.env.local
+.env.*.local
+
+# Build Outputs
+dist/
+build/
+client/dist/
+
+# Uploads & Temporary Artifacts
+server/uploads/logo_*
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS Files
+.DS_Store
+Thumbs.db

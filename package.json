@@ -1,0 +1,18 @@
+{
+  "name": "brandtrace-root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BRANDTRACE - Digital Risk Protection (Social & App Monitoring)",
+  "type": "module",
+  "scripts": {
+    "install:server": "npm --prefix server install",
+    "install:client": "npm --prefix client install",
+    "install:all": "npm --prefix server install && npm --prefix client install",
+    "seed": "npm --prefix server run seed",
+    "reset": "npm --prefix server run reset",
+    "test:server": "npm --prefix server test",
+    "test:client": "npm --prefix client test",
+    "build:client": "npm --prefix client run build",
+    "package": "node scripts/package-zip.js"
+  }
+}

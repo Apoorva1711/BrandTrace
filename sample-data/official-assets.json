@@ -1,0 +1,106 @@
+[
+  {
+    "brandName": "ApexPay",
+    "assetType": "official_social_profile",
+    "identifier": "ApexPayOfficial",
+    "url": "https://twitter.com/ApexPayOfficial",
+    "platformOrStore": "Twitter/X",
+    "publisherName": "ApexPay Technologies Inc.",
+    "notes": "Verified corporate Twitter/X account with gold verification badge."
+  },
+  {
+    "brandName": "ApexPay",
+    "assetType": "official_social_profile",
+    "identifier": "apexpay-inc",
+    "url": "https://linkedin.com/company/apexpay-inc",
+    "platformOrStore": "LinkedIn",
+    "publisherName": "ApexPay Technologies Inc.",
+    "notes": "Official corporate LinkedIn company page."
+  },
+  {
+    "brandName": "ApexPay",
+    "assetType": "official_mobile_app",
+    "identifier": "com.apexpay.mobile",
+    "url": "https://play.google.com/store/apps/details?id=com.apexpay.mobile",
+    "platformOrStore": "Google Play",
+    "publisherName": "ApexPay Technologies Inc.",
+    "notes": "Primary consumer Android payment app."
+  },
+  {
+    "brandName": "ApexPay",
+    "assetType": "official_mobile_app",
+    "identifier": "id1524314112",
+    "url": "https://apps.apple.com/app/apexpay-mobile/id1524314112",
+    "platformOrStore": "Apple App Store",
+    "publisherName": "ApexPay Technologies Inc.",
+    "notes": "Primary consumer iOS app."
+  },
+  {
+    "brandName": "ApexPay",
+    "assetType": "domain",
+    "identifier": "apexpay.example.com",
+    "url": "https://apexpay.example.com",
+    "platformOrStore": "Web",
+    "notes": "Primary marketing and corporate portal."
+  },
+  {
+    "brandName": "NovaCloud",
+    "assetType": "official_social_profile",
+    "identifier": "NovaCloudHQ",
+    "url": "https://twitter.com/NovaCloudHQ",
+    "platformOrStore": "Twitter/X",
+    "publisherName": "NovaCloud Systems International",
+    "notes": "Corporate announcements and developer feed."
+  },
+  {
+    "brandName": "NovaCloud",
+    "assetType": "official_mobile_app",
+    "identifier": "io.novacloud.console",
+    "url": "https://play.google.com/store/apps/details?id=io.novacloud.console",
+    "platformOrStore": "Google Play",
+    "publisherName": "NovaCloud Systems International",
+    "notes": "Cloud metrics and server monitoring mobile dashboard."
+  },
+  {
+    "brandName": "NovaCloud",
+    "assetType": "domain",
+    "identifier": "novacloud.example.org",
+    "url": "https://novacloud.example.org",
+    "platformOrStore": "Web",
+    "notes": "Official documentation and cloud console portal."
+  },
+  {
+    "brandName": "AeroVanguard",
+    "assetType": "official_social_profile",
+    "identifier": "AeroVanguard_Cargo",
+    "url": "https://twitter.com/AeroVanguard_Cargo",
+    "platformOrStore": "Twitter/X",
+    "publisherName": "AeroVanguard Cargo & Logistics Corp",
+    "notes": "Corporate customer updates and shipment route alerts."
+  },
+  {
+    "brandName": "AeroVanguard",
+    "assetType": "official_mobile_app",
+    "identifier": "com.aerovanguard.track",
+    "url": "https://play.google.com/store/apps/details?id=com.aerovanguard.track",
+    "platformOrStore": "Google Play",
+    "publisherName": "AeroVanguard Cargo & Logistics Corp",
+    "notes": "Live freight tracking and consignment scanner app."
+  },
+  {
+    "brandName": "AeroVanguard",
+    "assetType": "domain",
+    "identifier": "aerovanguard.example.net",
+    "url": "https://aerovanguard.example.net",
+    "platformOrStore": "Web",
+    "notes": "Enterprise logistics booking portal."
+  },
+  {
+    "brandName": "ApexPay",
+    "assetType": "trusted_publisher",
+    "identifier": "ApexPay Technologies Inc.",
+    "platformOrStore": "Google Play",
+    "publisherName": "ApexPay Technologies Inc.",
+    "notes": "Verified Google Play developer entity."
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "name": "ApexPay",
+    "legalName": "ApexPay Technologies Inc.",
+    "description": "Next-generation digital payments and global remittances platform providing secure personal and merchant wallets.",
+    "websiteUrl": "https://apexpay.example.com",
+    "logoUrl": "/assets/logos/apexpay.png",
+    "logoHash": "e1a4b2c3d4e5f607",
+    "aliases": ["Apex Pay", "ApexPayments", "ApexWallet"],
+    "keywords": ["fintech", "payments", "wallet", "transfers", "card", "crypto", "remittance"],
+    "trustedDomains": ["apexpay.example.com", "apexpay-api.example.com"]
+  },
+  {
+    "name": "NovaCloud",
+    "legalName": "NovaCloud Systems International",
+    "description": "Enterprise cloud infrastructure, container orchestration, and multi-region managed storage provider.",
+    "websiteUrl": "https://novacloud.example.org",
+    "logoUrl": "/assets/logos/novacloud.png",
+    "logoHash": "a8b9c0d1e2f31425",
+    "aliases": ["Nova Cloud", "NovaCloud DevOps", "NovaStack"],
+    "keywords": ["cloud", "hosting", "kubernetes", "devops", "storage", "compute", "serverless"],
+    "trustedDomains": ["novacloud.example.org", "novacloud-status.example.org"]
+  },
+  {
+    "name": "AeroVanguard",
+    "legalName": "AeroVanguard Cargo & Logistics Corp",
+    "description": "Global freight logistics, air cargo management, and real-time enterprise supply chain tracking.",
+    "websiteUrl": "https://aerovanguard.example.net",
+    "logoUrl": "/assets/logos/aerovanguard.png",
+    "logoHash": "3f2e1d0c9b8a7968",
+    "aliases": ["Aero Vanguard", "Vanguard Cargo", "AeroVanguard Express"],
+    "keywords": ["freight", "logistics", "cargo", "tracking", "shipment", "express", "supply chain"],
+    "trustedDomains": ["aerovanguard.example.net", "tracking.aerovanguard.example.net"]
+  }
+]
